@@ -6,7 +6,10 @@
 <a href="https://falixnodes.net/">
   <img align="left" alt="Falixnodes.net" width="21px" src="https://falixnodes.net/favicon.ico" />
 </a>
+
 <br />
+<br />
+
 Hi, I'm Bear, a passinote node.js developer from India
 
 - I’m currently working on [Tamako](https://tamako.tech) which is a discord bot with over 690 commands
