@@ -17,12 +17,12 @@ Hi, I'm Bear, a passinote node.js developer from India
 - Reach me on [Discord!](https://support.tamako.tech)
 
 <a href="https://github.com/BearTS">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bearts&layout=compact&theme=bear" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bearts&layout=compact&theme=bear" />
 </a>
 <a href="https://github.com/BearTS">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bearts&count_private=true&show_icons=true&theme=bear" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bearts&count_private=true&show_icons=true&theme=bear" />
 </a>
 
 <a href="https://github.com/BearTS/Pterodactyl-v1-DiscordBot">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=bearts&repo=Pterodactyl-v1-DiscordBot&theme=bear" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bearts&repo=Pterodactyl-v1-DiscordBot&theme=bear" />
 </a>
