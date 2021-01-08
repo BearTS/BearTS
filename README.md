@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi, I'm Bear, a passinote node.js developer from India
+Hi, I'm known as Bear#3437 on Discord
 
 - I’m currently working on [Tamako](https://tamako.tech) which is a discord bot with over 690 commands
 - I also Work at [Falixnodes.net](https://discord.gg/falixnodes) which is a free hosting company and [Tamako](https://tamako.tech) is hosted on [Falixnodes.net](https://discord.gg/falixnodes)
