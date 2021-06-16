@@ -4,7 +4,7 @@
   <img align="left" alt="Tamako Bot's Support Server" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 <a href="https://falixnodes.net/">
-  <img align="left" alt="Falixnodes.net" width="21px" src="https://falixnodes.net/favicon.ico" />
+  <img align="left" alt="Falixnodes.net" width="21px" src="https://falixnodes.net/favicon.png" />
 </a>
 
 <br />
