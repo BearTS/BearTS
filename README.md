@@ -3,8 +3,8 @@
 <a href="https://support.tamako.tech/">
   <img align="left" alt="Tamako Bot's Support Server" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
-<a href="https://falixnodes.net/">
-  <img align="left" alt="Falixnodes.net" width="21px" src="https://falixnodes.net/favicon.png" />
+<a href="https://skyfallen.org/">
+  <img align="left" alt="theskyfallen.com" width="21px" src="https://avatars.githubusercontent.com/u/68555937?s=200&v=4" />
 </a>
 
 <br />
