@@ -12,8 +12,8 @@
 
 Hi, I'm known as Bear#3437 on Discord
 
-- I’m currently working on [Tamako](https://tamako.tech) which is a discord bot with over 690 commands
-- I also Work at [Falixnodes.net](https://discord.gg/falixnodes) which is a free hosting company and [Tamako](https://tamako.tech) is hosted on [Falixnodes.net](https://discord.gg/falixnodes)
+- I’m currently working on [Tamako](https://tamako.tech) which is a discord bot with over 750 commands
+- I used to work at [Falixnodes.net](https://discord.gg/falixnodes) which is a hosting company
 - Reach me on [Discord!](https://support.tamako.tech)
 
 <a href="https://github.com/BearTS">
