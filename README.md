@@ -22,8 +22,8 @@ Hi, I'm known as Bear#3437 on Discord
 <a href="https://github.com/BearTS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bearts&theme=bear" />
 </a>
-<a href="https://github.com/BearTS/Pterodactyl-v1-DiscordBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bearts&repo=Pterodactyl-v1-DiscordBot&theme=bear" />
+<a href="https://github.com/maisans-maid/Mai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maisans-maid&repo=Mai&theme=bear" />
 </a>
 
 
