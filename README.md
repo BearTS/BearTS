@@ -22,9 +22,7 @@ Hi, I'm known as Bear#3437 on Discord
 <a href="https://github.com/BearTS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bearts&theme=bear" />
 </a>
-<a href="https://github.com/maisans-maid/Mai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maisans-maid&repo=Mai&theme=bear" />
-</a>
+  <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=bearts&theme=bear" />
 
 
 ![](https://hit.yhype.me/github/profile?user_id=65192718)
