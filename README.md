@@ -12,7 +12,7 @@
 
 Hi, I'm known as Bear#3437 on Discord
 
-- I’m currently working on [Tamako](https://tamako.tech) which is a discord bot with over 750 commands
+- I’m currently working on [Mai](https://mai.gg) and Tamako which is a discord bot with over 750 commands
 - I used to work at [Falixnodes.net](https://discord.gg/falixnodes) which is a hosting company
 - Reach me on [Discord!](https://support.tamako.tech)
 
