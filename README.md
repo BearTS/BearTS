@@ -18,8 +18,6 @@ Hi, I'm known as Bear#3437 on Discord
 <a href="https://github.com/BearTS">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bearts&count_private=true&show_icons=true&theme=bear" />
 </a>
-<a href="https://github.com/BearTS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bearts&theme=bear" />
 </a>
   <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=bearts&theme=bear" />
 
