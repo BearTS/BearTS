@@ -12,7 +12,7 @@
 
 Hi, I'm known as Bear#3437 on Discord
 - Find my Public Docker images: bearts
-- I’m currently working on [Mai](https://mai.gg) and Tamako which is a discord bot with over 750 commands
+- I’m currently working on [Mai](https://github.com/maisans-maid/mai) and Tamako which is a discord bot with over 750 commands
 - Reach me on [Discord!](https://support.tamako.tech)
 
 <a href="https://github.com/BearTS">
