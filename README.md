@@ -16,6 +16,9 @@ Hi, I'm known as Bear#3437 on Discord
 - Reach me on [Discord!](https://support.tamako.tech)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/BearTS">
