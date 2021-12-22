@@ -17,7 +17,10 @@ Hi, I'm known as Bear#3437 on Discord
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   3 hrs 58 mins   ████████████████████████░   95.59 % 
+JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Python       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 <!--END_SECTION:waka-->
 
