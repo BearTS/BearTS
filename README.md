@@ -24,8 +24,9 @@ Bash         1 hr 43 mins    ▓░░░░░░░░░░░░░░░░
 INI          1 hr 31 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 ```
 <!--END_SECTION:waka-->
-[![Discord Presence]
-(https://lanyard.cnrad.dev/api/397338324328775680)](https://discord.com/users/397338324328775680)
+<a href="https://discord.com/users/397338324328775680">
+        <img src="https://lanyard-profile-readme.vercel.app/api/397338324328775680?borderRadius=25px" />
+    </a>
 <a href="https://github.com/BearTS">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bearts&count_private=true&show_icons=true&theme=bear" />
 </a>
