@@ -27,6 +27,7 @@ INI          1 hr 31 mins    ▓░░░░░░░░░░░░░░░░
 <a href="https://discord.com/users/397338324328775680">
         <img src="https://lanyard-profile-readme.vercel.app/api/397338324328775680?borderRadius=25px" />
 </a>
+<br>
 <a href="https://github.com/BearTS">
   <img src="https://github-readme-stats.vercel.app/api?username=bearts&count_private=true&show_icons=true&theme=bear" />
 </a>
