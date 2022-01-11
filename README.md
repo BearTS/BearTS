@@ -17,11 +17,11 @@ Hi, I'm known as Bear#3437 on Discord
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   46 hrs 10 mins  ██████████████████▒░░░░░░   73.17 % 
-C            8 hrs 37 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-YAML         2 hrs 6 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Bash         1 hr 42 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-INI          1 hr 31 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+JavaScript   34 hrs 41 mins  ███████████████░░░░░░░░░░   60.39 % 
+C            12 hrs 2 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.97 % 
+YAML         4 hrs 28 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Bash         1 hr 48 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+INI          1 hr 31 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 ```
 <!--END_SECTION:waka-->
 <a href="https://discord.com/users/397338324328775680">
