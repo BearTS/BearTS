@@ -16,7 +16,7 @@ Hi, I'm known as Bear#3437 on Discord
 - Reach me on [Discord!](https://support.tamako.tech)
 
 <!--START_SECTION:waka-->
-Stats for the last 7 days
+Stats for the last 7 days:
 ```text
 Total: 2 hrs 57 mins
 
