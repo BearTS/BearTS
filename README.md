@@ -17,8 +17,6 @@ Hi, I'm known as Bear#3437 on Discord
 
 <!--START_SECTION:waka-->
 ```text
-Total: 4 hrs 43 mins
-
 JavaScript   4 hrs 38 mins   ████████████████████████▓   98.24 % 
 JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 ```
