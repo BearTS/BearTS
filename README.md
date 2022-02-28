@@ -16,13 +16,13 @@ Hi, I'm known as Bear#3437 on Discord
 - Reach me on [Discord!](https://support.tamako.tech)
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   16 hrs 57 mins  █████████████████████░░░░   83.71 % 
-Markdown     2 hrs 31 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-C++          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-HTML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+JavaScript   8 hrs 10 mins   █████████████████░░░░░░░░   67.42 %
+HTML         2 hrs 53 mins   ██████░░░░░░░░░░░░░░░░░░░   23.94 %
+Other        24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
 ```
+
 <!--END_SECTION:waka-->
 <a href="https://discord.com/users/397338324328775680">
         <img src="https://lanyard-profile-readme.vercel.app/api/397338324328775680?borderRadius=25px" />
