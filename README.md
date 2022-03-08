@@ -18,11 +18,10 @@ Hi, I'm known as Bear#3437 on Discord
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   10 hrs 10 mins  ███████████████▓░░░░░░░░░   62.83 %
-Python       4 hrs 4 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.10 %
-C++          57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-Markdown     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-Other        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+JavaScript   16 hrs 1 min    ███████████████████░░░░░░   75.92 %
+Python       4 hrs 4 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.27 %
+Markdown     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Other        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->
