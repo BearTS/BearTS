@@ -15,6 +15,7 @@ Hi, I'm known as Bear#3437 on Discord
 - I’m currently working on [Mai](https://github.com/maisans-maid/mai) and Tamako which is a discord bot with over 750 commands
 - Reach me on [Discord!](https://support.tamako.tech)
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbearts%2Fbearts&label=Profile%20Views&labelColor=%231f2023&countColor=%237b78ff&style=plastic)
 <!--START_SECTION:waka-->
 
 ```text
@@ -32,7 +33,7 @@ Docker        1 hr 1 min      ▒░░░░░░░░░░░░░░░�
 </a>
 <br>
 <a href="https://github.com/BearTS">
-  <img src="https://github-readme-stats.vercel.app/api?username=bearts&count_private=true&show_icons=true&theme=bear&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bearts&count_private=true&show_icons=true&theme=bear" />
 </a>
 </a>
   <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=bearts&theme=bear" />
