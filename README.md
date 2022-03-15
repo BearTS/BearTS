@@ -32,7 +32,7 @@ Docker        1 hr 1 min      ▒░░░░░░░░░░░░░░░�
 </a>
 <br>
 <a href="https://github.com/BearTS">
-  <img src="https://github-readme-stats.vercel.app/api?username=bearts&count_private=true&show_icons=true&theme=bear" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bearts&count_private=true&show_icons=true&theme=bear&include_all_commits=true" />
 </a>
 </a>
   <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=bearts&theme=bear" />
