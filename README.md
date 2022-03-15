@@ -13,7 +13,7 @@
   <img align="left" alt="Bear's's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbearts%2Fbearts&label=Profile%20Views&labelColor=%231f2023&countColor=%237b78ff&style=plastic)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbearts%2Fbearts&label=Profile%20Views&labelColor=%231f2023&countColor=%237b78ff&style=flat-square)
 
 <br />
 
