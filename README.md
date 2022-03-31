@@ -61,12 +61,12 @@ If you want to support the work I do, consider buying me a cup of coffee
 <!--START_SECTION:waka-->
 
 ```text
-Python       9 hrs 16 mins   █████████████▒░░░░░░░░░░░   53.44 %
-C++          5 hrs 6 mins    ███████▒░░░░░░░░░░░░░░░░░   29.38 %
-C            1 hr 48 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-JavaScript   27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-Markdown     24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Python       9 hrs 8 mins    █████████▒░░░░░░░░░░░░░░░   37.21 %
+C++          5 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.76 %
+JSON         3 hrs 56 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
+JavaScript   3 hrs 33 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
+C            1 hr 48 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+Bash         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 ```
 
 <!--END_SECTION:waka-->
