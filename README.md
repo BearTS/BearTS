@@ -62,7 +62,7 @@ If you want to support the work I do, consider buying me a cup of coffee
 
 ```text
 Python       7 hrs 52 mins   █████████░░░░░░░░░░░░░░░░   36.11 %
-JavaScript   5 hrs 52 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.96 %
+JavaScript   5 hrs 52 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.95 %
 JSON         3 hrs 57 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.15 %
 C            1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
 C++          1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
