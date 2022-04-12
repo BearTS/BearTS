@@ -61,12 +61,12 @@ If you want to support the work I do, consider buying me a cup of coffee
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   10 hrs 9 mins   ███████████░░░░░░░░░░░░░░   43.75 %
-Markdown     4 hrs 34 mins   █████░░░░░░░░░░░░░░░░░░░░   19.69 %
-Git Config   3 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
-Bash         2 hrs 56 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
-Python       1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
-TypeScript   34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+JavaScript   9 hrs 46 mins   ███████████░░░░░░░░░░░░░░   43.90 %
+C++          4 hrs 4 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.27 %
+Git Config   3 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
+Bash         2 hrs 55 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 %
+Python       1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+TypeScript   34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 ```
 
 <!--END_SECTION:waka-->
