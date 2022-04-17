@@ -61,12 +61,12 @@ If you want to support the work I do, consider buying me a cup of coffee
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript    9 hrs 10 mins   ███████████▒░░░░░░░░░░░░░   45.38 %
-C++           4 hrs 4 mins    █████░░░░░░░░░░░░░░░░░░░░   20.12 %
-Markdown      2 hrs 42 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
-Bash          2 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
-C             1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-HTML          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+JavaScript    20 hrs 23 mins  ███████████████▒░░░░░░░░░   61.42 %
+C++           4 hrs 4 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
+Markdown      3 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
+Bash          2 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
+HTML          1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+C             1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
 ```
 
 <!--END_SECTION:waka-->
