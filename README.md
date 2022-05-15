@@ -61,8 +61,8 @@ If you want to support the work I do, consider buying me a cup of coffee
 <!--START_SECTION:waka-->
 
 ```text
-Python   5 hrs 19 mins   ██████████████▒░░░░░░░░░░   57.38 %
-C++      3 hrs 57 mins   ██████████▓░░░░░░░░░░░░░░   42.62 %
+Python   5 hrs 19 mins   ███████████████████░░░░░░   75.59 %
+C++      1 hr 43 mins    ██████░░░░░░░░░░░░░░░░░░░   24.41 %
 ```
 
 <!--END_SECTION:waka-->
