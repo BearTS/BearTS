@@ -61,9 +61,8 @@ If you want to support the work I do, consider buying me a cup of coffee
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   9 hrs 56 mins   ████████████████████▒░░░░   81.82 %
-Python       1 hr 25 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
-Other        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+JavaScript   9 hrs 56 mins   ███████████████████████░░   92.12 %
+Other        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
 ```
 
 <!--END_SECTION:waka-->
