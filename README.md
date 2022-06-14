@@ -61,8 +61,9 @@ If you want to support the work I do, consider buying me a cup of coffee
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   4 hrs 41 mins   █████████████░░░░░░░░░░░░   51.74 %
-C++          4 hrs 22 mins   ████████████░░░░░░░░░░░░░   48.26 %
+C++          3 hrs 36 mins   █████████████████████████   99.76 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
