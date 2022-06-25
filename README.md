@@ -63,7 +63,7 @@ If you want to support the work I do, consider buying me a cup of coffee
 ```text
 JavaScript   3 hrs 44 mins   ███████████████████████░░   91.79 %
 JSON         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-Bash         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Bash         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 Other        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 ```
 
