@@ -61,11 +61,11 @@ If you want to support the work I do, consider buying me a cup of coffee
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       35 hrs 21 mins  ██████████████████▓░░░░░░   74.60 %
-Go               7 hrs 49 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
-Markdown         1 hr 29 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-HTML             1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-Other            26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+JavaScript       21 hrs 3 mins   ████████████████▒░░░░░░░░   65.10 %
+Go               7 hrs 49 mins   ██████░░░░░░░░░░░░░░░░░░░   24.20 %
+Markdown         1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+HTML             1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Other            24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->
