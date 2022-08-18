@@ -22,7 +22,7 @@ Hi, I'm Anuj Parihar, a passionate self-taught MERN Stack Developer from India, 
 - 📫 Reach me at [email](mailto:bear@tamako.tech) :)
 - 💬 I'm interested in **Cloud Computer**, **Web Development**, **Server Management**, and exploring different domains.
 - 😄 Pronouns: He/Him
-- 🧠 Currently a Freshman at Vellore Institute of Technology, Vellore, pursuing Computer Science and Business Systems
+- 🧠 Currently a Sophomore at Vellore Institute of Technology, Vellore, pursuing Computer Science and Business Systems
 
 If you want to support the work I do, consider buying me a cup of coffee
 <a href="https://www.buymeacoffee.com/bearts">
