@@ -61,12 +61,12 @@ If you want to support the work I do, consider buying me a cup of coffee
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript                 5 hrs 41 mins   ████████████░░░░░░░░░░░░░   48.23 %
-Markdown                   1 hr 56 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
-C                          1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
-Bash                       1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-Nginx configuration file   41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-TOML                       28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+JavaScript                 5 hrs 36 mins   █████████████░░░░░░░░░░░░   51.59 %
+Markdown                   1 hr 56 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.86 %
+Bash                       1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+Nginx configuration file   41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
+TOML                       28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+TypeScript                 17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 ```
 
 <!--END_SECTION:waka-->
