@@ -61,12 +61,10 @@ If you want to support the work I do, consider buying me a cup of coffee
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript                 11 hrs 45 mins  ███████████▓░░░░░░░░░░░░░   47.00 %
-Markdown                   7 hrs 42 mins   ███████▓░░░░░░░░░░░░░░░░░   30.83 %
-YAML                       2 hrs 20 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
-C++                        1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-JSON                       1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-Docker                     19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+JavaScript                 12 hrs 11 mins  ██████████▒░░░░░░░░░░░░░░   40.89 %
+Markdown                   7 hrs 54 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.50 %
+YAML                       4 hrs 50 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.26 %
+Other                      1 hr 29 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
 ```
 
 <!--END_SECTION:waka-->
