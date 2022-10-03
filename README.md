@@ -61,12 +61,12 @@ If you want to support the work I do, consider buying me a cup of coffee
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                 34 hrs 50 mins  █████████████▓░░░░░░░░░░░   54.18 %
-JavaScript                 16 hrs 26 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.57 %
-TOML                       3 hrs 11 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-JSON                       3 hrs 10 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-CSV                        1 hr 43 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Markdown                   1 hr 27 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+TypeScript                 34 hrs 30 mins  ██████████████▒░░░░░░░░░░   57.61 %
+JavaScript                 14 hrs 7 mins   ██████░░░░░░░░░░░░░░░░░░░   23.59 %
+TOML                       2 hrs 48 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+CSV                        2 hrs 2 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+JSON                       1 hr 53 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+Markdown                   1 hr 27 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 ```
 
 <!--END_SECTION:waka-->
