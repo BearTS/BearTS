@@ -61,8 +61,8 @@ If you want to support the work I do, consider buying me a cup of coffee
 <!--START_SECTION:waka-->
 
 ```text
-C++          3 hrs 53 mins   ███████████▓░░░░░░░░░░░░░   46.82 %
-Other        2 hrs 28 mins   ███████▒░░░░░░░░░░░░░░░░░   29.81 %
+C++          3 hrs 53 mins   ███████████▒░░░░░░░░░░░░░   44.86 %
+Other        2 hrs 28 mins   ███████░░░░░░░░░░░░░░░░░░   28.56 %
 ```
 
 <!--END_SECTION:waka-->
