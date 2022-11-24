@@ -61,12 +61,12 @@ If you want to support the work I do, consider buying me a cup of coffee
 <!--START_SECTION:waka-->
 
 ```text
-C++          7 hrs 30 mins   ████████████████░░░░░░░░░   63.51 %
-TypeScript   1 hr 16 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
-C            1 hr 13 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
-Bash         59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
-JavaScript   37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+C++          3 hrs 52 mins   █████████████▒░░░░░░░░░░░   52.96 %
+TypeScript   1 hr 16 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
+Bash         59 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
+JavaScript   37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+C            30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
