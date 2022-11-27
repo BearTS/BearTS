@@ -61,9 +61,7 @@ If you want to support the work I do, consider buying me a cup of coffee
 <!--START_SECTION:waka-->
 
 ```text
-Bash   37 mins         █████████████▒░░░░░░░░░░░   53.82 %
-C      25 mins         █████████░░░░░░░░░░░░░░░░   36.56 %
-C++    6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
