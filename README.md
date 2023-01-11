@@ -61,12 +61,12 @@ If you want to support the work I do, consider buying me a cup of coffee
 <!--START_SECTION:waka-->
 
 ```text
-Go                50 hrs 29 mins  ████████████████████░░░░░   79.88 %
-JavaScript        5 hrs 42 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
-Protocol Buffer   1 hr 51 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-TypeScript        1 hr 30 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-Makefile          49 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-Other             43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Go                43 hrs 48 mins  █████████████████████░░░░   84.35 %
+JavaScript        2 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+Protocol Buffer   1 hr 51 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+TypeScript        1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Makefile          49 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Other             41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
