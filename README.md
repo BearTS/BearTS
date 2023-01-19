@@ -61,12 +61,12 @@ If you want to support the work I do, consider buying me a cup of coffee
 <!--START_SECTION:waka-->
 
 ```text
-Go           5 hrs 59 mins   ████████████████████▓░░░░   82.53 %
-JSON         58 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 %
-CSV          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Go           15 hrs 50 mins  ███████████████████▒░░░░░   77.99 %
+Markdown     1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
+Python       1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+JSON         1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+CSV          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Bash         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
