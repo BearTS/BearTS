@@ -61,12 +61,10 @@ If you want to support the work I do, consider buying me a cup of coffee
 <!--START_SECTION:waka-->
 
 ```text
-Go           11 hrs 52 mins  █████████████████████▒░░░   85.74 %
-Markdown     1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
-Docker       23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Bash         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Go           2 hrs 27 mins   ████████████████████████░   96.45 %
+JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
