@@ -61,8 +61,7 @@ If you want to support the work I do, consider buying me a cup of coffee
 <!--START_SECTION:waka-->
 
 ```text
-YAML     0 secs          █████████████████▓░░░░░░░   70.03 %
-Other    0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
