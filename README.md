@@ -20,7 +20,7 @@
 Hi, I'm Anuj Parihar, a passionate self-taught MERN Stack Developer from India, my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 - 📫 Reach me at [email](mailto:anujparihar@yahoo.com) :)
-- 💬 I'm interested in **Cloud Computer**, **Web Development**, **Server Management**, and exploring different domains.
+- 💬 Talk with me about **Backend Development**, **DevOps**, **Server Management**.
 - 😄 Pronouns: He/Him
 - 🧠 Currently a Sophomore at Vellore Institute of Technology, Vellore, pursuing Computer Science and Business Systems
 
