@@ -17,7 +17,7 @@
 
 <br />
 
-Hi, I'm Anuj Parihar, a passionate self-taught MERN Stack Developer from India, my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Anuj Parihar, a passionate self-taught Backend Developer from India, my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 - 📫 Reach me at [email](mailto:anujparihar@yahoo.com) :)
 - 💬 Talk with me about **Backend Development**, **DevOps**, **Server Management**.
