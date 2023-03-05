@@ -61,9 +61,9 @@ If you want to support the work I do, consider buying me a cup of coffee
 <!--START_SECTION:waka-->
 
 ```text
-Go           68 hrs 45 mins  █████████████████████▓░░░   87.11 %
-XML          2 hrs 13 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-Other        2 hrs 11 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+Go           61 hrs 56 mins  █████████████████████▒░░░   85.96 %
+XML          2 hrs 15 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Other        2 hrs 13 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
 ```
 
 <!--END_SECTION:waka-->
