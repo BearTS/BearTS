@@ -61,9 +61,11 @@ If you want to support the work I do, consider buying me a cup of coffee
 <!--START_SECTION:waka-->
 
 ```text
-Go       14 hrs 29 mins  ███████████████████████░░   92.34 %
-Python   1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
-Other    4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Go       9 hrs 3 mins    ██████████████████████▒░░   89.00 %
+Python   1 hr 2 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
+Bash     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+YAML     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
