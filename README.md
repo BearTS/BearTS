@@ -61,10 +61,10 @@ If you want to support the work I do, consider buying me a cup of coffee
 <!--START_SECTION:waka-->
 
 ```text
-Go           13 hrs 50 mins  ███████████████████▒░░░░░   76.81 %
-TypeScript   3 hrs 51 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.38 %
-Bash         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Go           21 hrs          ████████████████████▓░░░░   83.03 %
+TypeScript   3 hrs 51 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
+Bash         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
