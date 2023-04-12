@@ -60,11 +60,12 @@ If you want to support the work I do, consider buying me a cup of coffee
 <!--START_SECTION:waka-->
 
 ```text
-Go           23 hrs 42 mins  ███████████████████░░░░░░   76.12 %
-Bash         1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-Docker       1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-TypeScript   1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-Other        1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+Go           27 hrs 21 mins  ████████████████████▓░░░░   83.06 %
+Bash         1 hr 41 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+Docker       1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+YAML         53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Python       52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+TypeScript   33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
