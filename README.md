@@ -56,12 +56,12 @@ If you want to support the work I do, consider buying me a cup of coffee
 <!--START_SECTION:waka-->
 
 ```text
-Go           26 hrs 32 mins  ██████████████████████▒░░   89.81 %
-Python       1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-TypeScript   33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-Bash         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Tcl          9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Go           21 hrs 38 mins  ████████████████▓░░░░░░░░   66.71 %
+Python       8 hrs 25 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.95 %
+Tcl          1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+TypeScript   33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Bash         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
