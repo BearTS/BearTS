@@ -56,11 +56,11 @@ If you want to support the work I do, consider buying me a cup of coffee
 <!--START_SECTION:waka-->
 
 ```text
-Go           25 hrs 20 mins  █████████████████▒░░░░░░░   69.92 %
-Python       8 hrs 5 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.32 %
-Tcl          1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-Docker       19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Other        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Go           16 hrs          █████████████░░░░░░░░░░░░   52.16 %
+Python       8 hrs 5 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.36 %
+YAML         2 hrs 27 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
+Tcl          1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+Other        1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
 ```
 
 <!--END_SECTION:waka-->
