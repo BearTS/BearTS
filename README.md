@@ -51,8 +51,8 @@ Hi, I'm Anuj Parihar, a passionate self-taught Backend Developer from India, my 
 <!--START_SECTION:waka-->
 
 ```text
-Go           11 hrs 38 mins  ████████████▓░░░░░░░░░░░░   50.19 %
-Other        4 hrs 43 mins   █████░░░░░░░░░░░░░░░░░░░░   20.33 %
+Go           11 hrs 38 mins  ████████████▓░░░░░░░░░░░░   50.01 %
+Other        4 hrs 43 mins   █████░░░░░░░░░░░░░░░░░░░░   20.26 %
 ```
 
 <!--END_SECTION:waka-->
