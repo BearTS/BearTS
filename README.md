@@ -22,7 +22,6 @@ Hi, I'm Anuj Parihar, a passionate self-taught Backend Developer from India, my 
 - 📫 Reach me at [email](mailto:anujparihar@yahoo.com) :)
 - 💬 Talk with me about **Backend Development**, **DevOps**, **Server Management**.
 - 😄 Pronouns: He/Him
-- 🧠 Currently a 3rd Year student at Vellore Institute of Technology, Vellore, pursuing Computer Science and Business Systems
 
 **Technologies:**  
 
