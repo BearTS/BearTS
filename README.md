@@ -1,14 +1,5 @@
 ### Hi there <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="25px">
 
-<a href="https://support.tamako.tech/">
-  <img align="left" alt="Tamako Bot's Support Server" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://skyfallen.org/">
-  <img align="left" alt="theskyfallen.com" width="21px" src="https://avatars.githubusercontent.com/u/68555937?s=200&v=4" />
-</a>
-<a href="https://www.instagram.com/anujpflash/">
-  <img align="left" alt="Bear's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
 <a href="https://www.linkedin.com/in/anujpflash/">
   <img align="left" alt="Bear's's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
