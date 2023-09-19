@@ -33,11 +33,11 @@ Hi, I'm Anuj Parihar, a passionate self-taught Backend Developer from India, my 
 <!--START_SECTION:waka-->
 
 ```txt
-Go                31 hrs 40 mins  ████████████████▓░░░░░░░░   66.94 %
-YAML              6 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
-ActionScript      5 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
-Bash              2 hrs 36 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-Tera Term macro   58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Go                31 hrs 21 mins  ███████████████▓░░░░░░░░░   62.82 %
+YAML              9 hrs 7 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.26 %
+ActionScript      5 hrs 30 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
+Bash              2 hrs 36 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Tera Term macro   58 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
 ```
 
 <!--END_SECTION:waka-->
