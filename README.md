@@ -33,11 +33,11 @@ Hi, I'm Anuj Parihar, a passionate self-taught Backend Developer from India, my 
 <!--START_SECTION:waka-->
 
 ```txt
-Go                21 hrs 36 mins  ███████████████▒░░░░░░░░░   61.78 %
-GraphQL           3 hrs 38 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-YAML              3 hrs 12 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
-HTML              2 hrs 22 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
-Other             2 hrs 7 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+Go                16 hrs 44 mins  ██████████████▒░░░░░░░░░░   57.11 %
+GraphQL           3 hrs 38 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
+YAML              2 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+HTML              2 hrs 22 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+Other             2 hrs 7 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
 ```
 
 <!--END_SECTION:waka-->
