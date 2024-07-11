@@ -3,9 +3,6 @@
 <a href="https://www.linkedin.com/in/anujpflash/">
   <img align="left" alt="Bear's's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbearts%2Fbearts&label=Profile%20Views&labelColor=%231f2023&countColor=%237b78ff&style=flat-square)
-
 <br />
 
 Hi, I'm Anuj Parihar, a passionate self-taught Backend Developer from India, my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
