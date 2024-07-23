@@ -40,10 +40,6 @@ JSON         12 mins         █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-<a href="https://discord.com/users/397338324328775680">
-  <img src="https://lanyard-profile-readme.vercel.app/api/397338324328775680?borderRadius=25px" />
-</a>
-<br>
 <a href="https://github.com/BearTS">
   <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=bearts&theme=bear" />
   <img src="https://github-readme-stats.vercel.app/api?username=bearts&count_private=true&show_icons=true&theme=bear" />
