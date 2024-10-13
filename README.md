@@ -30,11 +30,11 @@ Hi, I'm Anuj Parihar, a passionate self-taught Backend Developer from India, my 
 <!--START_SECTION:waka-->
 
 ```txt
-YAML              13 hrs 49 mins  ██████████████▓░░░░░░░░░░   59.31 %
-Go                5 hrs 42 mins   ██████░░░░░░░░░░░░░░░░░░░   24.52 %
-Python            1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-Text              56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-Other             28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+YAML              11 hrs 3 mins   ████████████▓░░░░░░░░░░░░   50.56 %
+Go                6 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   28.42 %
+Python            1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Text              56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+CSV               29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
 ```
 
 <!--END_SECTION:waka-->
