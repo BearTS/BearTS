@@ -30,11 +30,11 @@ Hi, I'm Anuj Parihar, a passionate self-taught Backend Developer from India, my 
 <!--START_SECTION:waka-->
 
 ```txt
-Go                31 hrs 1 min    ████████████████▒░░░░░░░░   65.09 %
-TypeScript        10 hrs 13 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.44 %
-Bash              2 hrs 35 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-Java              2 hrs 12 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-JavaScript        38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Go                34 hrs 44 mins  ██████████████████▒░░░░░░   73.07 %
+TypeScript        8 hrs 28 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.81 %
+Bash              1 hr 39 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+Java              1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+Git Config        27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
