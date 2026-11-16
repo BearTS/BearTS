@@ -1,14 +1,15 @@
-### Hi there <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="25px">
+### Hi there
 
 <a href="https://www.linkedin.com/in/anujpflash/">
-  <img align="left" alt="Bear's's LinkedIN" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/in-logo/fg/brand-inlogo-download-fg-dsk-v01.png/jcr:content/renditions/brand-inlogo-download-fg-dsk-v01-2x.png" />
+  <img align="left" alt="LinkedIn" width="22px"
+    src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 <br />
 
 Hi, I'm Anuj Parihar, a passionate Developer from India
 
 - 📫 Reach me at [email](mailto:anuj@anujp.dev) :)
-- 💬 Talk with me about **Backend Development**, **DevOps**, **Server Management**.
+- 💬 Talk with me about **Backend Development** and **Self hosting**.
 - 😄 Pronouns: He/Him
 
 📊 **This Week I Spent my time on:**
