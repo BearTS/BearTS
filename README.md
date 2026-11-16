@@ -12,16 +12,6 @@ Hi, I'm Anuj Parihar, a passionate Developer from India
 - 💬 Talk with me about **Backend Development** and **Self hosting**.
 - 😄 Pronouns: He/Him
 
-📊 **This Week I Spent my time on:**
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-
 <a href="https://github.com/BearTS">
   <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=bearts&theme=bear" />
   <img src="https://github-readme-stats.vercel.app/api?username=bearts&count_private=true&show_icons=true&theme=bear" />
